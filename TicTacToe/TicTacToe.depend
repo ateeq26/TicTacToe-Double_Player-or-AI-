@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1528281385 source:d:\ateeq\programcodes\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1541107523 source:e:\ateeq\programcodes\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
